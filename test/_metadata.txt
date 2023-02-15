@@ -1,2 +1,0 @@
-chunkSize: 1024
-chunks: 9
